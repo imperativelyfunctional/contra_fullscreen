@@ -9,5 +9,5 @@
 視頻地址：https://youtu.be/7wjP0Gm5_vE <br>
 頻道地址：https://www.youtube.com/channel/UCI_nzNMP4JEyJiITpJeIxYg
 
-![遊戲截屏](https://github.com/imperativelyfunctional/contra/blob/main/demo.gif)
+![遊戲截屏](https://github.com/imperativelyfunctional/contra_fullscreen/blob/main/demo.gif)
 
